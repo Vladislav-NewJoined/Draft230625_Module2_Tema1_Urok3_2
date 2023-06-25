@@ -37,7 +37,7 @@ public class Draft1_Task2_1_3 {
 
 
 
-////        Пример _ ППППППППППППППППППППППППППППППППППП
+////        Пример 1 ППППППППППППППППППППППППППППППППППП
 //// 04.15  Check RegExp
 //public class Draft1_Task2_1_3 {
 //    public static void main(String[] args) {
@@ -58,7 +58,7 @@ public class Draft1_Task2_1_3 {
 //        return summ;
 //    }
 //}
-////        Конец Примера _ КККККККККККККККК
+////        Конец Примера 1 КККККККККККККККК
 
 
 
